@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Sentienel SIEM Live Attack Map](https://github.com/linuxjmp/)
+- [Azure Sentienel SIEM Live Attack Map](https://github.com/linuxjmp/azuresiemliveattack)
 
  
 
